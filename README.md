@@ -1,2 +1,3 @@
 # Landing-page-autoflow
-Landing page desenvolvida com HTML, CSS e JavaScript
+Landing page desenvolvida para praticar HTML, CSS e JavaScript.
+Inclui layout responsivo e validação simples de formulário.
